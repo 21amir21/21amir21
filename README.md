@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/amir-osama-668402203/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-osama-668402203/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/21amir21x" target="_blank">
+  <a href="https://x.com/21amir21x" >
     <img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social" height="25" alt="twitter logo" />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Amir from Cairo, Egypt<br><br>- 🔭 I’m working as Software Engineer Intern<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I work on side projects</p>
+<p align="left">I'm Amir from Cairo, Egypt<br><br>- 🔭 I’m Senior Software Engineering Major at The British University in Egypt<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I work on side projects</p>
 
 ###
 
